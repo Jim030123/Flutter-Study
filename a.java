@@ -24,5 +24,5 @@ class JavaLoopChallenge1
         
         System.out.println("\n\n4.");
         // Create a loop to print every other letter horizontally
-        text = "Ie ghuakdg ray wgsrdefagtt ytuiimoef vodnd aevx,cjuyrdsqiqoana!x";
+        text = "Ie ghuakdg ray wgsrdfagtt ytuiimoef vodnd aevx,cjuyrdsqiqoana!x";
         
